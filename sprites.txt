@@ -1,4 +1,0 @@
-Sprites:
-https://opengameart.org/content/the-mana-worldforest-tileset
-https://opengameart.org/content/lpc-style-farm-animals
-https://opengameart.org/content/lpc-goat
